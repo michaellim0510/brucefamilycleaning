@@ -69,6 +69,7 @@
 
 #gnav li {
     float: left;
+    height: 100px;
     width: 20%;
 }
 
